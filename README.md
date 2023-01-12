@@ -4,7 +4,7 @@ To see this app working :
 
 ```
 git clone repository
-run npm install && npm start
+npm install && npm start
 ```
 
 ##### Features:
